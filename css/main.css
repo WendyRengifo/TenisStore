@@ -27,7 +27,7 @@ body{
 .principal .principal-img{
     width: 90%;
     height: 400px;
-    background-image: url("/assets/img/principal.png");
+    background-image: url("../assets/img/principal.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
